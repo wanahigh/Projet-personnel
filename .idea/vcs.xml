@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exo-Js-Localstorage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_base_4_off" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sovietDesign" vcs="Git" />
   </component>
 </project>
